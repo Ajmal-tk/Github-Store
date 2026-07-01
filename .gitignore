@@ -1,0 +1,6 @@
+# Create a .gitignore in your root folder with these entries:
+wp-content/plugins/*/vendor/
+wp-content/uploads/
+wp-config.php
+.env
+node_modules/

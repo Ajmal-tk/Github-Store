@@ -1,0 +1,1486 @@
+# Copyright (C) 2026 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tax Consultant 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tax-consultant\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-17T15:50:25+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: tax-consultant\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "Tax Consultant"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/tax-consultant"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Tax Consultant  Theme is designed for accounting firms, tax advisors, financial consultants, and professional accountants who want a modern, responsive, and fully customizable website. This theme provides a clean, professional layout that helps you showcase your tax consultant services, financial expertise, and client success stories effectively. Built with the latest standards, it ensures smooth performance, fast loading times, and complete compatibility with popular plugins, making it perfect for small businesses and individual tax consultants alike. With the Tax Consultant Theme, you can highlight all your services, from personal tax planning and corporate tax management to bookkeeping, payroll solutions, and tax advisory. The theme comes with pre-built sections for client testimonials, team profiles, case studies, and service packages, making it easier to establish trust and credibility. It’s fully responsive, mobile-friendly, and optimized for SEO, helping your accounting or tax consultancy firm rank higher on search engines. Whether you are a freelance tax consultant, a tax firm, or a finance advisor, this theme ensures your website reflects professionalism while attracting potential clients. Key features include drag-and-drop page building, multiple demo layouts, customizable headers and footers, and WooCommerce compatibility to offer online consultations or sell financial guides. Other highlights are speed optimization, retina-ready design, and social media integration to enhance online presence. The Tax Consultant Theme is ideal for tax advisors, tax planning services, accounting professionals, business consultants, CPA firms, and financial consultants who want a reliable, feature-rich theme that simplifies website management and growth. Launch your professional tax services website today with a theme tailored to meet all your consultancy needs."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: custom-setting.php:17
+msgid "Theme Settings"
+msgstr ""
+
+#: custom-setting.php:34
+msgid "Animation Settings"
+msgstr ""
+
+#: custom-setting.php:41
+msgid "Enable Animations"
+msgstr ""
+
+#: inc/customizer/customizer.php:15
+#: inc/customizer/customizer.php:23
+msgid "TAX CONSULTANT PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+#: inc/dashboard/dashboard.php:18
+msgid "https://www.ovationthemes.com/products/tax-wordpress-theme"
+msgstr ""
+
+#: inc/customizer/customizer.php:34
+#: inc/dashboard/dashboard.php:30
+msgid "https://www.ovationthemes.com/products/wordpress-bundle"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "UPGRADE TAX CONSULTANT PREMIUM"
+msgstr ""
+
+#: inc/customizer/customizer.php:50
+#: inc/dashboard/dashboard.php:89
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+#: inc/dashboard/dashboard.php:90
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+#: inc/dashboard/dashboard.php:91
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+#: inc/dashboard/dashboard.php:92
+msgid "Contact Page Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:54
+#: inc/dashboard/dashboard.php:93
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+#: inc/dashboard/dashboard.php:94
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+#: inc/dashboard/dashboard.php:95
+msgid "Cross Browser Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+#: inc/dashboard/dashboard.php:96
+msgid "Detailed Documentation Included"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+#: inc/dashboard/dashboard.php:97
+msgid "WPML Compatible (Translation Ready)"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+#: inc/dashboard/dashboard.php:98
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+#: inc/dashboard/dashboard.php:99
+msgid "Full Support"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+#: inc/dashboard/dashboard.php:100
+msgid "10+ Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+#: inc/dashboard/dashboard.php:101
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+#: inc/dashboard/dashboard.php:102
+msgid "Supper Fast"
+msgstr ""
+
+#: inc/customizer/customizer.php:67
+msgid "WP Theme Bundle (125+ Themes)"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:5
+#: inc/dashboard/welcome-notice.php:216
+msgid "Begin Installation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:9
+msgid "https://wordpress.org/support/theme/tax-consultant/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:12
+msgid "https://wordpress.org/support/theme/tax-consultant/reviews/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:15
+msgid "https://trial.ovationthemes.com/tax-consultant/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:21
+msgid "https://trial.ovationthemes.com/docs/tax-consultant-pro-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:24
+msgid "https://trial.ovationthemes.com/docs/tax-consultant-free-doc/"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:27
+msgid "Premium Tax Consultant Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:44
+msgid "Version: "
+msgstr ""
+
+#: inc/dashboard/dashboard.php:48
+#: inc/dashboard/dashboard.php:59
+#: inc/dashboard/dashboard.php:74
+#: inc/dashboard/dashboard.php:84
+msgid "Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:49
+msgid "Support"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:50
+msgid "Review"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:64
+#: inc/dashboard/dashboard.php:66
+msgid "Edit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:65
+msgid "Now create your website with easy drag and drop powered by gutenburg."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:68
+#: inc/dashboard/dashboard.php:70
+msgid "Visit Your Site"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:69
+msgid "To check your website click here"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:72
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:73
+msgid "Check the theme documentation to easily set up your website."
+msgstr ""
+
+#: inc/dashboard/dashboard.php:82
+#: inc/dashboard/welcome-notice.php:214
+msgid "Live Demo"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:83
+#: inc/dashboard/welcome-notice.php:215
+msgid "Get Pro Theme"
+msgstr ""
+
+#: inc/dashboard/dashboard.php:86
+msgid "WordPress Theme Bundle (125+ Themes at Just $89)"
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:51
+#: inc/dashboard/welcome-notice.php:89
+#: inc/TGM/tgm.php:11
+msgid "Ovation Elements"
+msgstr ""
+
+#: inc/dashboard/welcome-notice.php:211
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:400
+#: inc/TGM/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:401
+#: inc/TGM/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/TGM/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1042
+#: inc/TGM/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1243
+#: inc/TGM/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/TGM/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/TGM/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/TGM/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr ""
+
+#: patterns/about-section.php:11
+msgid "who we are"
+msgstr ""
+
+#: patterns/about-section.php:15
+msgid "global experience. local expertise."
+msgstr ""
+
+#: patterns/about-section.php:28
+msgid "15 +"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "years of"
+msgstr ""
+
+#: patterns/about-section.php:32
+msgid "experience"
+msgstr ""
+
+#: patterns/about-section.php:40
+msgid "GlobalTax Advisors provides international tax filing, corporate compliance, VAT guidance, and expat tax support for clients across the world.  We ensure accurate, secure, and hassle-free tax processes."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Certified"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "tax specialists & certified accountants"
+msgstr ""
+
+#: patterns/banner.php:40
+msgid "$5M+"
+msgstr ""
+
+#: patterns/banner.php:44
+msgid "managed tax savings"
+msgstr ""
+
+#: patterns/banner.php:129
+msgid "smart tax solutions for individuals & businesses worldwide"
+msgstr ""
+
+#: patterns/banner.php:133
+msgid "Professional tax advisory, filing, and compliance services tailored to global regulatory standards."
+msgstr ""
+
+#: patterns/banner.php:138
+msgid "schedule consultation"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:11
+msgid "frequently asked questions"
+msgstr ""
+
+#: patterns/faq-section.php:15
+msgid "Find answers to the most common tax-related queries."
+msgstr ""
+
+#: patterns/faq-section.php:23
+msgid "What documents are required for filing tax returns?"
+msgstr ""
+
+#: patterns/faq-section.php:24
+msgid "You can track your shipment in real time using our Track Your Shipment page. Just enter your tracking number to get live updates on location and estimated delivery time."
+msgstr ""
+
+#: patterns/faq-section.php:29
+msgid "How long does the filing process take?"
+msgstr ""
+
+#: patterns/faq-section.php:30
+#: patterns/faq-section.php:36
+#: patterns/faq-section.php:42
+#: patterns/faq-section.php:52
+#: patterns/faq-section.php:58
+#: patterns/faq-section.php:64
+#: patterns/faq-section.php:70
+#: patterns/faq-section.php:76
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: patterns/faq-section.php:35
+msgid "Do you assist with GST/VAT/Sales Tax registration?"
+msgstr ""
+
+#: patterns/faq-section.php:41
+msgid "Can you help with expat or foreign income taxation?"
+msgstr ""
+
+#: patterns/faq-section.php:51
+#: patterns/faq-section.php:63
+#: patterns/faq-section.php:75
+msgid "Do you offer support after filing?"
+msgstr ""
+
+#: patterns/faq-section.php:57
+#: patterns/faq-section.php:69
+msgid "Is my financial data secure?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "GlobalTax Advisors provides international tax filing, corporate compliance, VAT guidance, and expat tax support for clients across the world. We ensure accurate, secure, and hassle-free tax processes."
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "quick links"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "home"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "About"
+msgstr ""
+
+#: patterns/footer.php:36
+#: patterns/footer.php:59
+msgid "services"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "who we serve"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "pricing"
+msgstr ""
+
+#: patterns/footer.php:48
+#: patterns/latest-news.php:11
+msgid "blog & resources"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "contact us"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "individual tax filing"
+msgstr ""
+
+#: patterns/footer.php:68
+msgid "business & corporate filing"
+msgstr ""
+
+#: patterns/footer.php:72
+#: patterns/services-section.php:69
+msgid "expat & foreign income tax"
+msgstr ""
+
+#: patterns/footer.php:76
+msgid "vat / gst / sales tax"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "payroll & accounting"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "business formation"
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Tax Consultant Theme "
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Ovation Themes "
+msgstr ""
+
+#: patterns/footer.php:93
+msgid " and "
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:33
+msgid "Contact an Expert"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:11
+msgid "blog"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "Stay informed with expert articles, tips, and global tax law updates."
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:42
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/services-section.php
+msgctxt "Pattern title"
+msgid "Services Section"
+msgstr ""
+
+#: patterns/services-section.php:11
+msgid "our services"
+msgstr ""
+
+#: patterns/services-section.php:15
+msgid "comprehensive international tax services"
+msgstr ""
+
+#: patterns/services-section.php:19
+msgid "Tailored tax solutions for individuals, professionals, and global businesses."
+msgstr ""
+
+#: patterns/services-section.php:33
+msgid "international tax filing"
+msgstr ""
+
+#: patterns/services-section.php:37
+msgid "Accurate tax filing services for global countries We ensure compliance with local regulations while optimizing tax benefits."
+msgstr ""
+
+#: patterns/services-section.php:51
+msgid "corporate tax reporting"
+msgstr ""
+
+#: patterns/services-section.php:55
+msgid "End-to-end corporate tax preparation, filing, and reporting for small, medium, and large enterprises operating across borders."
+msgstr ""
+
+#: patterns/services-section.php:73
+msgid "Specialized tax support for expats, digital nomads, and foreign residents. We handle tax treaties, foreign income."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:11
+msgid "testimonials"
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "what our clients say"
+msgstr ""
+
+#: patterns/testimonial.php:26
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:30
+#: patterns/testimonial.php:48
+#: patterns/testimonial.php:66
+#: patterns/testimonial.php:84
+#: patterns/testimonial.php:102
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error"
+msgstr ""
+
+#: patterns/testimonial.php:44
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:62
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:80
+msgid "Liam Chen"
+msgstr ""
+
+#: patterns/testimonial.php:98
+msgid "Sophia James"
+msgstr ""
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/brown.json
+#: styles/copper-brown.json
+#: styles/deep-green.json
+#: styles/deep-indigo.json
+#: styles/green.json
+#: styles/inked-purple.json
+#: styles/leaf-green.json
+#: styles/ocean-blue.json
+#: styles/wine-red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/copper-brown.json
+msgctxt "Style variation name"
+msgid "Copper Brown"
+msgstr ""
+
+#: styles/deep-green.json
+msgctxt "Style variation name"
+msgid "Deep Green"
+msgstr ""
+
+#: styles/deep-indigo.json
+msgctxt "Style variation name"
+msgid "Deep Indigo"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/inked-purple.json
+msgctxt "Style variation name"
+msgid "Inked Purple"
+msgstr ""
+
+#: styles/leaf-green.json
+msgctxt "Style variation name"
+msgid "Leaf Green"
+msgstr ""
+
+#: styles/ocean-blue.json
+msgctxt "Style variation name"
+msgid "Ocean Blue"
+msgstr ""
+
+#: styles/wine-red.json
+msgctxt "Style variation name"
+msgid "Wine Red"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Button Hover Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Button Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Star Background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal base to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary left"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary right"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal heading to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Without Header Image"
+msgstr ""

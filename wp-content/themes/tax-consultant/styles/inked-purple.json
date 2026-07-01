@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Inked Purple",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#FFFFFF",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#53136b",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#d17ae2",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#e9b8f7",
+                "name": "Tertiary",
+                "slug": "tertiary"
+            },
+            {
+                "color": "#faf1ff",
+                "name": "Quaternary",
+                "slug": "quaternary"
+            },
+            {
+                "color": "#53136b99",
+                "name": "Primary Light",
+                "slug": "primary-light"
+            },
+            {
+                "color": "#0000000f",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#1D1D1D",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color":"#00000040",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color":"#00000040",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ]
+    }
+  }
+}
