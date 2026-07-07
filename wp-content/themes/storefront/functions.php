@@ -27,14 +27,16 @@ $storefront = (object) array(
 	'main'       => require 'inc/class-storefront.php',
 	'customizer' => require 'inc/customizer/class-storefront-customizer.php',
 );
+// Gadget Hub product search bar — reposition above main menu.
+require 'inc/gadget-hub-search-position.php';
 
+require 'inc/storefront-functions.php';
 // Gadget Hub Homepage Customizer
 require 'inc/gadget-hub-customizer.php';
 
 // Gadget Hub header login UI + popup behaviour.
 require 'inc/gadget-hub-login-popup.php';
 
-require 'inc/storefront-functions.php';
 require 'inc/storefront-template-hooks.php';
 require 'inc/storefront-template-functions.php';
 require 'inc/wordpress-shims.php';
