@@ -4,3 +4,28 @@ wp-content/uploads/
 wp-config.php
 .env
 node_modules/
+
+
+# Cache and backup plugin folders
+wp-content/cache/
+wp-content/backup*/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+ 
+# Debug logs
+debug.log
+wp-content/debug.log
+ 
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+ 
+
+ 
+# Environment-specific
+*.sql
+*.zip
