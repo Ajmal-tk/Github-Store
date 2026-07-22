@@ -30,14 +30,21 @@ function gh_header_account_area() {
 	echo '<div class="gh-header-account">';
 
 	if ( is_user_logged_in() ) {
-		$current_user = wp_get_current_user();
-		$username     = $current_user && $current_user->display_name ? $current_user->display_name : $current_user->user_login;
+    $current_user = wp_get_current_user();
+    $username     = $current_user && $current_user->display_name ? $current_user->display_name : $current_user->user_login;
 
-		$logout_url = wp_logout_url( home_url( '/' ) );
+    $logout_url   = wp_logout_url( home_url( '/' ) );
+    $checkout_url = function_exists( 'wc_get_checkout_url' ) ? wc_get_checkout_url() : '';
 
-		echo '<span class="gh-header-user">Hi, ' . esc_html( $username ) . '</span>';
-		echo '<a class="gh-logout-btn" href="' . esc_url( $logout_url ) . '">' . esc_html__( 'Log Out', 'storefront' ) . '</a>';
-	} else {
+    echo '<span class="gh-header-user">Hi, ' . esc_html( $username ) . '</span>';
+    echo '<a class="gh-account-btn" href="' . esc_url( $account_url ) . '">' . esc_html__( 'My Account', 'storefront' ) . '</a>';
+
+    if ( $checkout_url ) {
+        echo '<a class="gh-account-btn" href="' . esc_url( $checkout_url ) . '">' . esc_html__( 'Checkout', 'storefront' ) . '</a>';
+    }
+
+    echo '<a class="gh-logout-btn" href="' . esc_url( $logout_url ) . '">' . esc_html__( 'Log Out', 'storefront' ) . '</a>';
+} else {
 		// For guests, show a bold Login button that also opens the popup.
 		echo '<a class="gh-login-btn gh-login-trigger" href="' . esc_url( $account_url ) . '">' . esc_html__( 'Log In', 'storefront' ) . '</a>';
 	}
@@ -88,6 +95,28 @@ function gh_login_popup_styles() {
 			color: #fff;
 			box-shadow: 0 8px 18px rgba(37, 99, 235, 0.35);
 		}
+		.gh-account-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 18px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    border: 1px solid #d1d5db;
+    background: #fff;
+    color: #374151;
+    cursor: pointer;
+    transition: all 0.18s ease;
+    white-space: nowrap;
+}
+
+.gh-account-btn:hover {
+    background: #f3f4f6;
+    border-color: #9ca3af;
+    color: #111827;
+}
 
 		.gh-login-btn:hover {
 			background: linear-gradient(135deg, #1d4ed8, #1e40af);
@@ -109,12 +138,13 @@ function gh_login_popup_styles() {
 		@media (max-width: 768px) {
 			.site-header .gh-header-account {
 				font-size: 13px;
-			}
-
-			.gh-login-btn,
-			.gh-logout-btn {
+				.gh-login-btn,
+			.gh-logout-btn,
+			.gh-account-btn {
 				padding: 6px 14px;
 			}
+			}
+
 		}
 
 		/* Popup overlay */
